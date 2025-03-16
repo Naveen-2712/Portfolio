@@ -1223,7 +1223,7 @@
                                                                 children: ["Building modern web applications with a focus on user experience and performance. Currently working at ", (0,
                                                                     t.jsx)("span", {}), (0,
                                                                         t.jsx)("span", {
-                                                                            className: "text=primary font-bold",
+                                                                            className: "text-primary font-bold",
                                                                             children: "Pentagon Innovation."
                                                                         })]
                                                             }), (0,
