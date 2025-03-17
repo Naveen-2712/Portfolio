@@ -59,7 +59,7 @@
                                                     children: [(0,
                                                         t.jsx)("p", {
                                                             className: "text-lg",
-                                                            children: "I'm Naveen Prakash M, a passionate web developer and IT professional currently working at Pentagon Innovation. With a strong foundation in computer science and currently pursuing my MCA, I combine technical expertise with creative problem-solving to build effective web solutions."
+                                                            children: "I'm Naveen Prakash M, a passionate web developer and IT professional currently working at Pentagon Innovations. With a strong foundation in computer science and currently pursuing my MCA, I combine technical expertise with creative problem-solving to build effective web solutions."
                                                         }), (0,
                                                             t.jsx)("p", {
                                                                 className: "text-lg",
@@ -156,7 +156,7 @@
                                                                                                                 }), (0,
                                                                                                                     t.jsx)("p", {
                                                                                                                         className: "text-muted-foreground",
-                                                                                                                        children: "Pentagon Innovation"
+                                                                                                                        children: "Pentagon Innovations"
                                                                                                                     }), (0,
                                                                                                                         t.jsx)("p", {
                                                                                                                             className: "text-sm text-muted-foreground mt-1",
@@ -1224,7 +1224,7 @@
                                                                     t.jsx)("span", {}), (0,
                                                                         t.jsx)("span", {
                                                                             className: "text-primary font-bold",
-                                                                            children: "Pentagon Innovation."
+                                                                            children: "Pentagon Innovations."
                                                                         })]
                                                             }), (0,
                                                                 t.jsxs)("div", {
