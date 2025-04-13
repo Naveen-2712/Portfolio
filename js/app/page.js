@@ -102,7 +102,7 @@
                                                                                                                 children: [(0,
                                                                                                                     t.jsx)("p", {
                                                                                                                         className: "font-medium",
-                                                                                                                        children: "MCA (Currently Pursuing)"
+                                                                                                                        children: "MCA (2023 - 2025)"
                                                                                                                     }), (0,
                                                                                                                         t.jsx)("p", {
                                                                                                                             className: "text-muted-foreground",
@@ -113,7 +113,7 @@
                                                                                                                     children: [(0,
                                                                                                                         t.jsx)("p", {
                                                                                                                             className: "font-medium",
-                                                                                                                            children: "B.Sc. Computer Science"
+                                                                                                                            children: "B.Sc. Computer Science (2020 - 2023)"
                                                                                                                         }), (0,
                                                                                                                             t.jsx)("p", {
                                                                                                                                 className: "text-muted-foreground",
