@@ -1121,7 +1121,7 @@
                     r.useState)("")
                 , [o, d] = (0,
                     r.useState)(!0)
-                , m = ["MCA Student", "Web Developer", "IT Professional"]
+                , m = ["MCA Graduate", "Web Developer", "IT Professional"]
                 , u = (0,
                     r.useRef)(0)
                 , h = (0,
