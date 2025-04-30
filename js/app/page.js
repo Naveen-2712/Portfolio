@@ -1046,7 +1046,7 @@
                                                             asChild: !0,
                                                             children: (0,
                                                                 t.jsx)("a", {
-                                                                    href: "assets/Naveen Prakash_resume.pdf",
+                                                                    href: "assets/NAVEEN PRAKASH.pdf",
                                                                     download: !0,
                                                                     children: "Resume"
                                                                 })
@@ -1093,7 +1093,7 @@
                                                     className: "w-full mt-2",
                                                     children: (0,
                                                         t.jsx)("a", {
-                                                            href: "assets/Naveen Prakash_resume.pdf",
+                                                            href: "assets/NAVEEN PRAKASH.pdf",
                                                             download: !0,
                                                             children: "Resume"
                                                         })
